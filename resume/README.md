@@ -1,5 +1,3 @@
-Resume Filip Sliško 
-===================
 Help me I'm lost
 ==============
 
