@@ -36,4 +36,4 @@ Help me I'm lost
  `Console.log(message);`
 ``De code wordt eveneens voorzien van een backtick quote (`)``
 
-![De Maan](https://thefunnyplace.org/wp-content/uploads/2013/12/Grumpy-cat-2014-wallpaper-quote.jpg"Wondermooie Maan")
+![Grumpy](https://thefunnyplace.org/wp-content/uploads/2013/12/Grumpy-cat-2014-wallpaper-quote.jpg"grumpy")
