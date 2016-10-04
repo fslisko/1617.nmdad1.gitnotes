@@ -33,4 +33,4 @@ Help me I'm lost
 *Yeeeeeeees!* she yelled.
 
 
-![Grumpy](http://thefunnyplace.org/wp-content/uploads/2013/12/Grumpy-cat-2014-wallpaper-quote.jpg"grumpy")
+![Grumpy](http://thefunnyplace.org/wp-content/uploads/2013/12/Grumpy-cat-2014-wallpaper-quote.jpg "grumpy")
