@@ -1,8 +1,6 @@
-Help me I'm lost
+CV - Filip Sliško
 ==============
-
-#I'm afraid
-
+![Grumpy](http://thefunnyplace.org/wp-content/uploads/2013/12/Grumpy-cat-2014-wallpaper-quote.jpg "grumpy")
 > This is the first level of quoting.
 >
 >> This is nested blockquote.
