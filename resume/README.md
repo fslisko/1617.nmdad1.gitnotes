@@ -21,4 +21,5 @@ CV - Filip Sliško
 >Hobbies
 >> Books, Movies, Football
 
+![Filip](http://www.dm2-web.com/t12/img/sliskoprofil.jpg "grumpy")
 
