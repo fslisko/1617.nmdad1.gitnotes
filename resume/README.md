@@ -1,34 +1,24 @@
 CV - Filip Sliško
 ==============
 ![Grumpy](http://thefunnyplace.org/wp-content/uploads/2013/12/Grumpy-cat-2014-wallpaper-quote.jpg "grumpy")
-> This is the first level of quoting.
+> Personal data
 >
->> This is nested blockquote.
+>> Filip Sliško
+>> Reigelstraat 13, 9000 Ghent
+>> 16.05.1992.
+>> Male
+>> Croatian
+>> Single
+>> 00385 98 466810
+>> fslisko@gmailcom
 >
-> Back to the first level.
+> Programs
 >
->>>Noooooooo.
+>> Adobe Creative Cloud
+>> Microsoft office
+>> Cinema 4d, Blender
 
-<ul>
-<li>one</li>
-<li>two</li>
-</ul>
-<ol>
-<li>one</li>
-<li>two</li>
-</ol>
-
-* HTML
-	* HTML5
-	* XHTML
-* JavaScript
-	* VanillaJS
-	* jQuery
-		1. Nice framework
-		2. Most used framework in JavaScript
-
-**Nooooooo!** he said
-*Yeeeeeeees!* she yelled.
+>Hobbies
+>> Books, Movies, Football
 
 
-![Grumpy](http://thefunnyplace.org/wp-content/uploads/2013/12/Grumpy-cat-2014-wallpaper-quote.jpg "grumpy")
